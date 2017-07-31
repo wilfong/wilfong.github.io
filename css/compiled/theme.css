@@ -9716,7 +9716,7 @@ a:focus, button:focus {
 
 .blog-post-hero-short {
     height: 500px;
-    background-image: url("../../images/article_shortage.png");
+    background-image: url("../../images/article-shortage.jpg");
     background-size: cover;
     background-position: center center;
     position: relative;
